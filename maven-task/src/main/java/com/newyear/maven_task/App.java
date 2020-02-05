@@ -72,7 +72,7 @@ class App
 			  		System.out.println("Wrong choice");
 			  		
 			  	  }
-			  	  System.out.println("Hey "+firstname+ "Do you want to search for Something else?  y/n?");
+			  	  System.out.println("Hey "+firstname+ " do you want to search for Something else?  y/n?");
 			  	  cho=s.next();
 			  	  }while(cho.equals("y"));
 			  	  System.out.println("Thank You!!!");
