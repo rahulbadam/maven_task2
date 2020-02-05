@@ -77,7 +77,7 @@ class App
 			  	  }while(cho.equals("y"));
 			  	  System.out.println("Thank You!!!");
 		s.close();
-	  
+	 
 	  
   }
 }
